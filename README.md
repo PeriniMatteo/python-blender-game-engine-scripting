@@ -27,7 +27,11 @@
 
 * Simply upload the sketch on your arduino and connect it at your pc.
 
+ 
+#### NOTE: 
+ 
  ___It is possible that the serial port isn't the same as mine. You have to fix this in the python script___
  
+ ___You can find other methods to interact with Blender objects [here](https://www.blender.org/api/249PythonDoc/GE/GameTypes.KX_GameObject-class.html)!___
  
 ### __HAVE FUN!__
